@@ -1,0 +1,501 @@
+Date (date),State Code (state_code),State Name (state_name),Airport Type (airport_type),Airport Category (airport_category),Airport Name (airport_name),Number of Freights (freight)
+29-02-2020,19,West Bengal,Domestic,Custom Airports,Bagdogra,595
+31-07-2023,30,Goa,International,ST GOVT/PVT INTL Airports,Goa (Mopa),0
+28-02-2025,28,Andhra Pradesh,Domestic,Domestic Airports,Rajahmundry,4
+30-06-2022,29,Karnataka,Domestic,Domestic Airports,Kalaburagi (Gulbarga),0
+30-11-2025,32,Kerala,International,JV International Airports,Kochi (CIAL),3956
+31-07-2024,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Nasik (HAL Ozar),12
+31-03-2019,5,Uttarakhand,Domestic,Domestic Airports,Dehradun,19
+31-05-2025,5,Uttarakhand,Domestic,Domestic Airports,Pantnagar,0
+30-09-2019,32,Kerala,International,JV International Airports,Kochi (CIAL),4832
+28-02-2023,24,Gujarat,Domestic,PPP International Airports,Ahmedabad,3594
+31-01-2024,32,Kerala,Domestic,PPP International Airports,Thiruvananthapuram,231
+31-07-2020,37,Ladakh,Domestic,Domestic Airports,Leh,105
+30-09-2020,1,Jammu And Kashmir,Domestic,International Airports,Srinagar,924
+31-08-2021,10,Bihar,International,Custom Airports,Gaya,0
+31-07-2017,37,Ladakh,Domestic,Domestic Airports,Leh,104
+31-01-2025,27,Maharashtra,Domestic,Domestic Airports,Sholapur,0
+31-01-2024,28,Andhra Pradesh,International,International Airports,Vijayawada,0
+29-02-2024,18,Assam,Domestic,Domestic Airports,Rupsi,0
+30-11-2022,11,Sikkim,Domestic,Domestic Airports,Pakyong,0
+31-07-2017,8,Rajasthan,Domestic,Domestic Airports,Bikaner,0
+30-04-2026,29,Karnataka,Domestic,JV International Airports,Bengaluru (BIAL),16089
+29-02-2024,32,Kerala,International,PPP International Airports,Thiruvananthapuram,1313
+30-11-2025,24,Gujarat,International,International Airports,Surat,0
+31-03-2026,33,Tamil Nadu,Domestic,International Airports,Chennai,9136
+31-08-2023,19,West Bengal,International,Custom Airports,Bagdogra,0
+30-04-2020,24,Gujarat,International,International Airports,Ahmedabad,183
+31-12-2022,29,Karnataka,Domestic,PPP International Airports,Mangaluru,246
+30-06-2024,33,Tamil Nadu,Domestic,Custom Airports,Madurai,146
+30-04-2022,8,Rajasthan,Domestic,Domestic Airports,Jaisalmer,0
+31-10-2023,9,Uttar Pradesh,International,PPP International Airports,Lucknow,363
+30-06-2023,12,Arunachal Pradesh,Domestic,ST GOVT/PVT Airports,Pasighat,0
+31-05-2025,27,Maharashtra,Domestic,JV International Airports,Nagpur (MIPL),797
+28-02-2023,27,Maharashtra,Domestic,Domestic Airports,Jalgaon,0
+31-07-2026,33,Tamil Nadu,International,International Airports,Chennai,33731
+31-10-2025,9,Uttar Pradesh,International,International Airports,Ayodhya,0
+31-01-2023,7,Delhi,International,JV International Airports,Delhi (DIAL),41421
+30-11-2020,18,Assam,Domestic,Domestic Airports,Tezpur,0
+31-01-2020,9,Uttar Pradesh,Domestic,Domestic Airports,Agra,0
+31-05-2017,33,Tamil Nadu,International,Custom Airports,Madurai,0
+31-10-2023,18,Assam,Domestic,Domestic Airports,Silchar,70
+31-05-2021,14,Manipur,Domestic,International Airports,Imphal,251
+31-01-2021,2,Himachal Pradesh,Domestic,Domestic Airports,Gaggal (Kangra),0
+31-03-2018,33,Tamil Nadu,International,International Airports,Chennai,28645
+31-07-2018,8,Rajasthan,Domestic,Domestic Airports,Bikaner,0
+31-10-2020,22,Chhattisgarh,Domestic,Domestic Airports,Raipur,532
+31-08-2017,14,Manipur,International,International Airports,Imphal,0
+31-01-2017,4,Chandigarh,Domestic,Custom Airports,Chandigarh,358
+30-04-2017,33,Tamil Nadu,Domestic,International Airports,Coimbatore,740
+31-08-2025,30,Goa,Domestic,International Airports,Goa (Dabolim),421
+31-03-2020,23,Madhya Pradesh,Domestic,Domestic Airports,Gwalior,0
+30-06-2024,8,Rajasthan,Domestic,Domestic Airports,Udaipur,18
+30-11-2024,37,Ladakh,Domestic,Domestic Airports,Leh,104
+31-03-2023,24,Gujarat,Domestic,PPP International Airports,Ahmedabad,4380
+30-06-2021,12,Arunachal Pradesh,Domestic,Domestic Airports,Tezu,0
+28-02-2025,30,Goa,Domestic,ST GOVT/PVT INTL Airports,Goa (Mopa),59
+30-06-2026,24,Gujarat,International,PPP International Airports,Ahmedabad,6240
+30-06-2022,3,Punjab,Domestic,Domestic Airports,Ludhiana (Halwara),0
+31-07-2026,10,Bihar,Domestic,Domestic Airports,Darbhanga,61
+30-11-2024,18,Assam,International,PPP International Airports,Guwahati,3
+31-03-2020,24,Gujarat,Domestic,Domestic Airports,Kandla,0
+31-07-2018,27,Maharashtra,International,Custom Airports,Aurangabad,0
+30-09-2024,37,Ladakh,Domestic,Domestic Airports,Leh,133
+31-12-2022,22,Chhattisgarh,Domestic,ST GOVT/PVT Airports,Bilaspur,0
+31-08-2024,29,Karnataka,International,ST GOVT/PVT Airports,Bengaluru (HAL),0
+30-11-2019,33,Tamil Nadu,International,International Airports,Chennai,22502
+28-02-2019,19,West Bengal,Domestic,Custom Airports,Bagdogra,442
+31-12-2020,10,Bihar,Domestic,Custom Airports,Patna,1129
+28-02-2021,27,Maharashtra,Domestic,Domestic Airports,Juhu,18
+31-08-2021,32,Kerala,Domestic,International Airports,Kozhikode,38
+31-05-2019,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,0
+30-04-2021,19,West Bengal,Domestic,International Airports,Kolkata,6954
+31-01-2018,24,Gujarat,Domestic,Domestic Airports,Jamnagar,0
+31-07-2018,24,Gujarat,Domestic,ST GOVT/PVT Airports,Mundra,0
+31-01-2026,27,Maharashtra,Domestic,Custom Airports,Pune,4687
+31-08-2019,33,Tamil Nadu,International,International Airports,Tiruchirappalli,809
+30-06-2025,27,Maharashtra,Domestic,JV International Airports,Mumbai (MIAL),19490
+30-11-2025,10,Bihar,Domestic,Custom Airports,Patna,975
+28-02-2026,23,Madhya Pradesh,International,Custom Airports,Indore,0
+30-11-2018,33,Tamil Nadu,International,International Airports,Chennai,24247
+31-05-2020,28,Andhra Pradesh,International,International Airports,Tirupati,0
+31-10-2025,27,Maharashtra,International,Custom Airports,Aurangabad,0
+30-09-2019,23,Madhya Pradesh,Domestic,Domestic Airports,Bhopal,104
+31-07-2022,23,Madhya Pradesh,Domestic,Domestic Airports,Bhopal,281
+31-08-2024,33,Tamil Nadu,Domestic,International Airports,Coimbatore,975
+30-06-2021,5,Uttarakhand,Domestic,Domestic Airports,Dehradun,3
+31-07-2020,19,West Bengal,International,Custom Airports,Bagdogra,0
+31-01-2021,22,Chhattisgarh,Domestic,ST GOVT/PVT Airports,Jagdalpur,0
+30-11-2019,6,Haryana,Domestic,ST GOVT/PVT Airports,Hisar,0
+31-08-2019,24,Gujarat,Domestic,International Airports,Ahmedabad,5026
+31-03-2019,32,Kerala,Domestic,International Airports,Kozhikode,117
+31-08-2019,18,Assam,Domestic,International Airports,Guwahati,948
+31-10-2024,27,Maharashtra,International,JV International Airports,Mumbai (MIAL),57690
+31-12-2019,18,Assam,Domestic,Domestic Airports,Dibrugarh,40
+31-10-2017,10,Bihar,Domestic,Custom Airports,Patna,585
+31-01-2024,19,West Bengal,Domestic,Domestic Airports,Cooch Behar,0
+30-04-2022,20,Jharkhand,Domestic,Domestic Airports,Ranchi,854
+30-06-2021,20,Jharkhand,Domestic,Domestic Airports,Ranchi,340
+31-03-2024,33,Tamil Nadu,International,International Airports,Coimbatore,116
+30-04-2022,33,Tamil Nadu,International,International Airports,Chennai,23249
+31-05-2026,9,Uttar Pradesh,Domestic,PPP International Airports,Lucknow,1646
+31-05-2024,28,Andhra Pradesh,International,International Airports,Vijayawada,0
+31-07-2021,8,Rajasthan,Domestic,Domestic Airports,Jodhpur,0
+30-09-2022,24,Gujarat,Domestic,ST GOVT/PVT Airports,Mundra,0
+31-08-2023,18,Assam,Domestic,Domestic Airports,Dibrugarh,103
+31-05-2026,32,Kerala,International,International Airports,Kozhikode,1221
+31-10-2025,23,Madhya Pradesh,Domestic,Custom Airports,Bhopal,238
+30-11-2017,4,Chandigarh,International,Custom Airports,Chandigarh,0
+31-12-2024,9,Uttar Pradesh,International,Domestic Airports,Agra,0
+31-03-2018,3,Punjab,Domestic,Domestic Airports,Bhatinda,0
+31-07-2026,23,Madhya Pradesh,Domestic,Domestic Airports,Jabalpur,11
+30-06-2020,15,Mizoram,Domestic,ST GOVT/PVT Airports,Aizawl (Lengpui),18
+31-12-2021,5,Uttarakhand,Domestic,Domestic Airports,Pantnagar,0
+31-01-2019,2,Himachal Pradesh,Domestic,Domestic Airports,Shimla,0
+31-03-2021,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,0
+31-05-2018,23,Madhya Pradesh,Domestic,Domestic Airports,Gwalior,0
+31-03-2017,29,Karnataka,Domestic,International Airports,Mangaluru,40
+30-06-2026,9,Uttar Pradesh,Domestic,Domestic Airports,Bareilly,0
+31-10-2024,3,Punjab,International,International Airports,Amritsar,122
+31-05-2026,35,Andaman And Nicobar Islands,Domestic,International Airports,Port Blair,735
+31-10-2017,18,Assam,Domestic,Domestic Airports,Tezpur,0
+30-11-2024,3,Punjab,Domestic,Domestic Airports,Bhatinda,0
+30-04-2026,12,Arunachal Pradesh,Domestic,ST GOVT/PVT Airports,Pasighat,0
+30-04-2024,29,Karnataka,International,PPP International Airports,Mangaluru,169
+31-08-2017,3,Punjab,Domestic,International Airports,Amritsar,61
+30-06-2021,24,Gujarat,International,PPP International Airports,Ahmedabad,4031
+30-09-2017,23,Madhya Pradesh,Domestic,Domestic Airports,Khajuraho,0
+30-11-2025,10,Bihar,Domestic,Domestic Airports,Darbhanga,30
+31-05-2023,30,Goa,Domestic,ST GOVT/PVT INTL Airports,Goa (Mopa),16
+31-05-2024,7,Delhi,Domestic,Domestic Airports,Safdarjung,0
+30-04-2020,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,0
+30-04-2018,24,Gujarat,Domestic,Domestic Airports,Bhavnagar,0
+31-07-2017,24,Gujarat,International,International Airports,Ahmedabad,3628
+31-03-2017,24,Gujarat,Domestic,International Airports,Ahmedabad,4334
+31-01-2022,32,Kerala,Domestic,International Airports,Kozhikode,53
+30-11-2024,8,Rajasthan,Domestic,Domestic Airports,Bikaner,0
+31-07-2025,9,Uttar Pradesh,Domestic,International Airports,Varanasi,560
+31-12-2018,3,Punjab,Domestic,International Airports,Amritsar,51
+30-04-2024,8,Rajasthan,Domestic,Domestic Airports,Udaipur,22
+30-06-2023,36,Telangana,Domestic,Domestic Airports,Hyderabad (Begumpet),0
+30-06-2024,13,Nagaland,Domestic,Domestic Airports,Dimapur,110
+31-03-2019,27,Maharashtra,Domestic,Domestic Airports,Jalgaon,0
+30-06-2025,29,Karnataka,Domestic,ST GOVT/PVT Airports,Vijayanagar,0
+31-01-2017,31,Lakshadweep,Domestic,Domestic Airports,Agatti,0
+30-09-2023,33,Tamil Nadu,Domestic,Domestic Airports,Tuticorin,0
+30-11-2025,27,Maharashtra,International,ST GOVT/PVT INTL Airports,Shirdi,0
+28-02-2019,9,Uttar Pradesh,International,International Airports,Varanasi,0
+31-03-2025,32,Kerala,Domestic,JV International Airports,Kannur (KIAL),4
+31-01-2026,29,Karnataka,Domestic,Domestic Airports,Kalaburagi (Gulbarga),0
+30-09-2021,28,Andhra Pradesh,Domestic,ST GOVT/PVT Airports,Kurnool,0
+31-12-2020,19,West Bengal,Domestic,International Airports,Kolkata,6874
+31-03-2017,1,Jammu And Kashmir,International,International Airports,Srinagar,0
+30-09-2023,27,Maharashtra,Domestic,Domestic Airports,Gondia,0
+31-12-2017,33,Tamil Nadu,Domestic,Domestic Airports,Tuticorin,3
+31-05-2026,29,Karnataka,Domestic,ST GOVT/PVT Airports,Shivamogga,0
+30-06-2019,10,Bihar,Domestic,Custom Airports,Patna,1077
+31-01-2021,24,Gujarat,Domestic,Domestic Airports,Bhuj,0
+31-07-2026,12,Arunachal Pradesh,Domestic,Domestic Airports,Tezu,0
+30-11-2023,38,The Dadra And Nagar Haveli And Daman And Diu,Domestic,Domestic Airports,Diu,0
+30-11-2019,1,Jammu And Kashmir,Domestic,Domestic Airports,Jammu,113
+28-02-2021,27,Maharashtra,International,Custom Airports,Aurangabad,0
+30-04-2018,27,Maharashtra,Domestic,Domestic Airports,Jalgaon,0
+30-11-2024,23,Madhya Pradesh,Domestic,Domestic Airports,Gwalior,0
+29-02-2024,27,Maharashtra,Domestic,Domestic Airports,Gondia,0
+31-05-2019,33,Tamil Nadu,Domestic,International Airports,Chennai,7182
+29-02-2020,9,Uttar Pradesh,Domestic,Domestic Airports,Hindon,0
+30-11-2018,28,Andhra Pradesh,Domestic,International Airports,Tirupati,0
+31-05-2019,27,Maharashtra,Domestic,Custom Airports,Pune,2340
+31-12-2025,30,Goa,Domestic,International Airports,Goa (Dabolim),595
+31-01-2019,15,Mizoram,Domestic,ST GOVT/PVT Airports,Aizawl (Lengpui),47
+30-09-2023,12,Arunachal Pradesh,Domestic,Domestic Airports,Itanagar (Hollongi-Donyi Polo),0
+31-05-2025,3,Punjab,International,International Airports,Amritsar,186
+31-01-2020,29,Karnataka,International,International Airports,Mangaluru,335
+31-07-2024,7,Delhi,Domestic,JV International Airports,Delhi (DIAL),30196
+31-01-2023,9,Uttar Pradesh,International,International Airports,Varanasi,42
+31-01-2022,9,Uttar Pradesh,Domestic,Domestic Airports,Hindon,0
+30-06-2025,27,Maharashtra,International,Custom Airports,Pune,1
+31-01-2018,5,Uttarakhand,Domestic,Domestic Airports,Dehradun,12
+30-11-2020,8,Rajasthan,Domestic,Domestic Airports,Udaipur,0
+31-10-2024,29,Karnataka,Domestic,PPP International Airports,Mangaluru,49
+31-08-2023,9,Uttar Pradesh,International,PPP International Airports,Lucknow,325
+31-07-2018,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,0
+30-06-2025,29,Karnataka,Domestic,JV International Airports,Bengaluru (BIAL),16460
+28-02-2019,3,Punjab,Domestic,Domestic Airports,Bhatinda,0
+31-07-2024,2,Himachal Pradesh,Domestic,Domestic Airports,Bhuntar (Kullu Manali),0
+30-04-2017,38,The Dadra And Nagar Haveli And Daman And Diu,Domestic,Domestic Airports,Diu,0
+30-09-2023,1,Jammu And Kashmir,Domestic,Domestic Airports,Jammu,65
+31-08-2020,22,Chhattisgarh,Domestic,Domestic Airports,Raipur,358
+31-08-2020,7,Delhi,International,JV International Airports,Delhi (DIAL),42530
+30-09-2022,21,Odisha,Domestic,ST GOVT/PVT Airports,Rourkela,0
+31-01-2018,14,Manipur,International,International Airports,Imphal,0
+28-02-2017,37,Ladakh,Domestic,Domestic Airports,Leh,216
+30-06-2023,1,Jammu And Kashmir,Domestic,International Airports,Srinagar,1277
+31-12-2021,8,Rajasthan,Domestic,PPP International Airports,Jaipur,1394
+30-04-2024,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,3
+31-10-2023,12,Arunachal Pradesh,Domestic,Domestic Airports,Itanagar (Hollongi-Donyi Polo),0
+31-08-2025,32,Kerala,Domestic,International Airports,Kozhikode,31
+30-11-2019,10,Bihar,Domestic,Custom Airports,Gaya,0
+30-04-2024,16,Tripura,Domestic,Custom Airports,Agartala,476
+30-06-2022,8,Rajasthan,Domestic,Domestic Airports,Kota,0
+30-11-2025,27,Maharashtra,International,Custom Airports,Aurangabad,0
+30-11-2025,8,Rajasthan,Domestic,PPP International Airports,Jaipur,2747
+31-10-2018,8,Rajasthan,Domestic,Domestic Airports,Kota,0
+31-12-2024,19,West Bengal,International,Custom Airports,Bagdogra,0
+31-07-2021,4,Chandigarh,Domestic,Custom Airports,Chandigarh,910
+30-06-2022,20,Jharkhand,Domestic,ST GOVT/PVT Airports,Jamshedpur,0
+30-04-2023,27,Maharashtra,Domestic,Domestic Airports,Gondia,0
+30-11-2025,8,Rajasthan,International,Domestic Airports,Udaipur,0
+30-11-2017,29,Karnataka,Domestic,International Airports,Mangaluru,40
+30-04-2021,21,Odisha,International,International Airports,Bhubaneswar,0
+31-01-2019,27,Maharashtra,Domestic,JV International Airports,Mumbai (MIAL),24206
+31-03-2026,8,Rajasthan,Domestic,Domestic Airports,Jodhpur,23
+31-12-2019,30,Goa,International,International Airports,Goa (Dabolim),63
+31-12-2023,29,Karnataka,Domestic,Domestic Airports,Belagavi,2
+31-03-2018,9,Uttar Pradesh,Domestic,Domestic Airports,Agra,0
+30-06-2024,27,Maharashtra,Domestic,Domestic Airports,Kolhapur,0
+31-05-2021,29,Karnataka,Domestic,Domestic Airports,Mysuru,0
+28-02-2026,18,Assam,Domestic,Domestic Airports,Jorhat,6
+30-11-2017,2,Himachal Pradesh,Domestic,Domestic Airports,Gaggal (Kangra),0
+30-11-2024,29,Karnataka,Domestic,ST GOVT/PVT Airports,Bengaluru (HAL),0
+30-04-2020,21,Odisha,Domestic,Domestic Airports,Jharsuguda,0
+30-06-2020,4,Chandigarh,International,Custom Airports,Chandigarh,0
+28-02-2021,15,Mizoram,Domestic,ST GOVT/PVT Airports,Aizawl (Lengpui),29
+31-08-2024,8,Rajasthan,Domestic,Domestic Airports,Kishangarh,0
+31-01-2020,23,Madhya Pradesh,Domestic,Domestic Airports,Khajuraho,0
+30-09-2022,10,Bihar,Domestic,Domestic Airports,Darbhanga,3
+30-09-2019,7,Delhi,International,JV International Airports,Delhi (DIAL),51951
+31-10-2025,32,Kerala,International,JV International Airports,Kochi (CIAL),4405
+30-06-2025,16,Tripura,International,Custom Airports,Agartala,0
+31-05-2026,24,Gujarat,International,Domestic Airports,Bhavnagar,0
+31-05-2019,32,Kerala,Domestic,International Airports,Thiruvananthapuram,478
+31-05-2026,20,Jharkhand,Domestic,ST GOVT/PVT Airports,Jamshedpur,0
+31-10-2023,33,Tamil Nadu,Domestic,International Airports,Chennai,6892
+31-05-2017,10,Bihar,International,Custom Airports,Patna,0
+31-03-2024,15,Mizoram,Domestic,ST GOVT/PVT Airports,Aizawl (Lengpui),72
+31-03-2022,32,Kerala,Domestic,JV International Airports,Kannur (KIAL),7
+31-07-2021,24,Gujarat,International,Custom Airports,Surat,0
+30-04-2023,23,Madhya Pradesh,Domestic,Domestic Airports,Khajuraho,0
+31-12-2022,12,Arunachal Pradesh,Domestic,Domestic Airports,Itanagar (Hollongi-Donyi Polo),0
+29-02-2024,12,Arunachal Pradesh,Domestic,ST GOVT/PVT Airports,Ziro,0
+30-06-2021,3,Punjab,Domestic,International Airports,Amritsar,98
+30-09-2023,30,Goa,Domestic,International Airports,Goa (Dabolim),302
+28-02-2023,19,West Bengal,Domestic,Domestic Airports,Cooch Behar,0
+31-07-2026,32,Kerala,International,International Airports,Kozhikode,1382
+31-07-2026,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Sindhudurg,0
+31-07-2020,28,Andhra Pradesh,International,International Airports,Vijayawada,0
+31-05-2022,8,Rajasthan,Domestic,Domestic Airports,Udaipur,17
+30-11-2019,28,Andhra Pradesh,International,International Airports,Vijayawada,0
+30-04-2020,29,Karnataka,Domestic,ST GOVT/PVT Airports,Vijayanagar,0
+31-10-2019,28,Andhra Pradesh,International,Custom Airports,Visakhapatnam,48
+28-02-2026,27,Maharashtra,Domestic,Domestic Airports,Sholapur,0
+31-03-2023,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Sindhudurg,0
+31-07-2019,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Nasik (HAL Ozar),0
+28-02-2026,23,Madhya Pradesh,Domestic,Domestic Airports,Satna,0
+31-07-2017,30,Goa,International,International Airports,Goa (Dabolim),201
+31-12-2024,36,Telangana,Domestic,Domestic Airports,Hyderabad (Begumpet),0
+31-12-2025,8,Rajasthan,Domestic,Domestic Airports,Kishangarh,0
+31-03-2022,9,Uttar Pradesh,Domestic,Domestic Airports,Hindon,0
+31-01-2023,24,Gujarat,Domestic,PPP International Airports,Ahmedabad,3695
+31-10-2018,29,Karnataka,International,International Airports,Mangaluru,190
+31-03-2019,33,Tamil Nadu,Domestic,Domestic Airports,Tuticorin,5
+31-03-2026,23,Madhya Pradesh,Domestic,Custom Airports,Bhopal,245
+31-03-2023,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,6
+31-03-2022,20,Jharkhand,Domestic,Domestic Airports,Ranchi,472
+31-08-2019,1,Jammu And Kashmir,Domestic,Domestic Airports,Jammu,117
+30-09-2020,4,Chandigarh,International,Custom Airports,Chandigarh,0
+31-07-2025,27,Maharashtra,International,JV International Airports,Mumbai (MIAL),57431
+31-08-2021,9,Uttar Pradesh,International,International Airports,Kushinagar,0
+30-09-2023,19,West Bengal,Domestic,Domestic Airports,Cooch Behar,0
+30-04-2024,19,West Bengal,International,International Airports,Kolkata,3548
+31-03-2026,34,Puducherry,Domestic,Domestic Airports,Puducherry,0
+31-07-2019,34,Puducherry,Domestic,Domestic Airports,Puducherry,0
+31-01-2025,27,Maharashtra,Domestic,JV International Airports,Mumbai (MIAL),18814
+31-08-2021,23,Madhya Pradesh,Domestic,Custom Airports,Indore,743
+30-04-2023,9,Uttar Pradesh,International,PPP International Airports,Lucknow,295
+31-05-2022,28,Andhra Pradesh,Domestic,International Airports,Vijayawada,71
+31-08-2019,33,Tamil Nadu,Domestic,International Airports,Tiruchirappalli,0
+31-10-2019,1,Jammu And Kashmir,International,International Airports,Srinagar,0
+31-08-2022,27,Maharashtra,Domestic,JV International Airports,Mumbai (MIAL),19282
+30-04-2023,29,Karnataka,Domestic,ST GOVT/PVT Airports,Vijayanagar,0
+31-12-2020,32,Kerala,International,JV International Airports,Kannur (KIAL),0
+31-10-2018,11,Sikkim,Domestic,Domestic Airports,Pakyong,0
+30-11-2023,21,Odisha,International,International Airports,Bhubaneswar,17
+31-05-2024,32,Kerala,International,JV International Airports,Kochi (CIAL),4378
+31-01-2024,27,Maharashtra,Domestic,Custom Airports,Aurangabad,48
+28-02-2018,28,Andhra Pradesh,International,International Airports,Tirupati,0
+30-11-2018,3,Punjab,Domestic,Domestic Airports,Ludhiana (Halwara),0
+31-08-2024,1,Jammu And Kashmir,Domestic,Domestic Airports,Jammu,97
+30-09-2024,23,Madhya Pradesh,Domestic,Domestic Airports,Gwalior,0
+30-11-2025,35,Andaman And Nicobar Islands,International,International Airports,Port Blair,0
+30-04-2024,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Sindhudurg,0
+28-02-2023,9,Uttar Pradesh,Domestic,Domestic Airports,Bareilly,0
+31-01-2022,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Sindhudurg,0
+31-03-2022,19,West Bengal,Domestic,International Airports,Kolkata,9296
+30-04-2019,24,Gujarat,Domestic,Domestic Airports,Bhuj,0
+28-02-2017,3,Punjab,Domestic,International Airports,Amritsar,45
+30-04-2023,24,Gujarat,Domestic,PPP International Airports,Ahmedabad,4188
+28-02-2019,2,Himachal Pradesh,Domestic,Domestic Airports,Shimla,0
+31-10-2017,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Nanded,0
+31-07-2021,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Nanded,0
+31-12-2025,27,Maharashtra,Domestic,JV International Airports,Nagpur (MIPL),709
+30-04-2025,27,Maharashtra,International,ST GOVT/PVT INTL Airports,Shirdi,0
+30-09-2021,17,Meghalaya,Domestic,Domestic Airports,Barapani (Shillong),0
+31-05-2017,5,Uttarakhand,Domestic,Domestic Airports,Pantnagar,0
+31-07-2024,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,35
+30-04-2025,7,Delhi,International,JV International Airports,Delhi (DIAL),61666
+30-06-2026,19,West Bengal,Domestic,International Airports,Kolkata,10196
+30-11-2022,5,Uttarakhand,Domestic,Domestic Airports,Dehradun,202
+31-12-2018,31,Lakshadweep,Domestic,Domestic Airports,Agatti,3
+31-01-2017,37,Ladakh,Domestic,Domestic Airports,Leh,98
+30-09-2019,38,The Dadra And Nagar Haveli And Daman And Diu,Domestic,Domestic Airports,Diu,0
+31-12-2024,31,Lakshadweep,Domestic,Domestic Airports,Agatti,0
+30-11-2025,32,Kerala,International,PPP International Airports,Thiruvananthapuram,1257
+31-10-2021,9,Uttar Pradesh,Domestic,Domestic Airports,Kanpur (Chakeri),32
+28-02-2025,9,Uttar Pradesh,Domestic,Domestic Airports,Hindon,0
+31-08-2023,33,Tamil Nadu,Domestic,Domestic Airports,Salem,0
+30-09-2018,3,Punjab,Domestic,International Airports,Amritsar,48
+31-12-2025,37,Ladakh,Domestic,Domestic Airports,Leh,138
+31-07-2022,23,Madhya Pradesh,Domestic,Domestic Airports,Khajuraho,0
+30-09-2023,24,Gujarat,Domestic,Domestic Airports,Porbandar,0
+30-11-2022,22,Chhattisgarh,Domestic,ST GOVT/PVT Airports,Bilaspur,0
+31-07-2021,32,Kerala,Domestic,JV International Airports,Kannur (KIAL),0
+28-02-2021,9,Uttar Pradesh,International,International Airports,Kushinagar,0
+31-12-2025,3,Punjab,Domestic,Domestic Airports,Bhatinda,0
+30-04-2024,14,Manipur,Domestic,International Airports,Imphal,340
+31-01-2022,17,Meghalaya,Domestic,Domestic Airports,Barapani (Shillong),0
+31-07-2022,23,Madhya Pradesh,Domestic,Custom Airports,Indore,917
+28-02-2026,20,Jharkhand,Domestic,ST GOVT/PVT Airports,Jamshedpur,0
+31-10-2021,33,Tamil Nadu,Domestic,International Airports,Tiruchirappalli,0
+30-11-2020,32,Kerala,Domestic,International Airports,Kozhikode,24
+30-04-2019,24,Gujarat,Domestic,Custom Airports,Surat,140
+31-05-2024,19,West Bengal,Domestic,Custom Airports,Bagdogra,824
+30-11-2021,33,Tamil Nadu,Domestic,Custom Airports,Madurai,126
+30-11-2017,27,Maharashtra,Domestic,ST GOVT/PVT Airports,Nanded,0
+28-02-2019,27,Maharashtra,Domestic,Custom Airports,Aurangabad,103
+30-06-2017,32,Kerala,Domestic,International Airports,Kozhikode,158
+31-08-2021,32,Kerala,Domestic,JV International Airports,Kannur (KIAL),0
+28-02-2019,10,Bihar,International,Custom Airports,Patna,0
+31-10-2021,29,Karnataka,Domestic,Domestic Airports,Kalaburagi (Gulbarga),0
+30-11-2024,2,Himachal Pradesh,Domestic,Domestic Airports,Gaggal (Kangra),0
+30-06-2017,33,Tamil Nadu,Domestic,Custom Airports,Madurai,154
+31-08-2024,27,Maharashtra,International,JV International Airports,Nagpur (MIPL),7
+30-11-2022,33,Tamil Nadu,International,International Airports,Tiruchirappalli,529
+31-01-2018,18,Assam,International,International Airports,Guwahati,0
+31-12-2025,9,Uttar Pradesh,Domestic,Domestic Airports,Hindon,0
+30-04-2021,24,Gujarat,Domestic,Domestic Airports,Bhavnagar,0
+31-08-2019,19,West Bengal,International,International Airports,Kolkata,4793
+30-06-2018,28,Andhra Pradesh,Domestic,Custom Airports,Visakhapatnam,414
+30-04-2025,35,Andaman And Nicobar Islands,International,International Airports,Port Blair,0
+30-06-2025,27,Maharashtra,Domestic,Custom Airports,Pune,4011
+31-05-2018,10,Bihar,Domestic,Custom Airports,Gaya,0
+31-03-2025,27,Maharashtra,,ST GOVT/PVT INTL Airports,Shirdi,0
+31-10-2019,24,Gujarat,Domestic,International Airports,Ahmedabad,5674
+31-05-2021,3,Punjab,International,International Airports,Amritsar,40
+31-01-2019,3,Punjab,Domestic,International Airports,Amritsar,28
+31-12-2025,24,Gujarat,Domestic,International Airports,Rajkot (Hirasar),130
+30-06-2017,32,Kerala,International,JV International Airports,Kochi (CIAL),5751
+30-11-2024,9,Uttar Pradesh,Domestic,ST GOVT/PVT Airports,Azamgarh,0
+31-10-2024,22,Chhattisgarh,Domestic,Domestic Airports,Raipur,521
+31-10-2024,22,Chhattisgarh,Domestic,ST GOVT/PVT Airports,Bilaspur,0
+31-05-2022,29,Karnataka,International,JV International Airports,Bengaluru (BIAL),21492
+31-07-2024,24,Gujarat,Domestic,Domestic Airports,Keshod (Junagarh),0
+30-06-2017,37,Ladakh,Domestic,Domestic Airports,Leh,150
+31-05-2023,24,Gujarat,Domestic,Domestic Airports,Jamnagar,0
+30-04-2026,27,Maharashtra,Domestic,ST GOVT/PVT INTL Airports,Shirdi,8
+31-03-2023,32,Kerala,Domestic,PPP International Airports,Thiruvananthapuram,185
+31-08-2025,29,Karnataka,Domestic,ST GOVT/PVT Airports,Bengaluru (HAL),0
+30-09-2019,19,West Bengal,International,International Airports,Kolkata,4981
+31-08-2020,10,Bihar,International,Custom Airports,Gaya,0
+31-07-2024,28,Andhra Pradesh,International,International Airports,Tirupati,0
+31-03-2026,6,Haryana,Domestic,ST GOVT/PVT Airports,Hisar,0
+31-03-2020,3,Punjab,Domestic,Domestic Airports,Pathankot,0
+30-06-2026,3,Punjab,Domestic,Domestic Airports,Bhatinda,0
+28-02-2025,8,Rajasthan,Domestic,Domestic Airports,Udaipur,42
+31-12-2025,3,Punjab,Domestic,International Airports,Amritsar,70
+31-10-2020,7,Delhi,Domestic,JV International Airports,Delhi (DIAL),32184
+31-10-2025,18,Assam,Domestic,Domestic Airports,Lakhimpur (Lilabari),0
+31-07-2025,18,Assam,Domestic,Domestic Airports,Lakhimpur (Lilabari),0
+30-04-2024,38,The Dadra And Nagar Haveli And Daman And Diu,Domestic,Domestic Airports,Diu,0
+30-09-2019,24,Gujarat,Domestic,Domestic Airports,Rajkot,3
+30-06-2026,22,Chhattisgarh,Domestic,ST GOVT/PVT Airports,Jagdalpur,0
+31-01-2020,8,Rajasthan,Domestic,International Airports,Jaipur,1416
+31-05-2025,12,Arunachal Pradesh,Domestic,Domestic Airports,Itanagar (Hollongi-Donyi Polo),0
+30-04-2026,30,Goa,International,International Airports,Goa (Dabolim),2
+31-05-2023,24,Gujarat,Domestic,Domestic Airports,Vadodara,239
+31-03-2026,28,Andhra Pradesh,Domestic,International Airports,Vijayawada,162
+30-11-2020,29,Karnataka,Domestic,ST GOVT/PVT Airports,Vijayanagar,0
+31-10-2018,27,Maharashtra,Domestic,JV International Airports,Nagpur (MIPL),890
+31-08-2024,27,Maharashtra,Domestic,JV International Airports,Nagpur (MIPL),723
+31-05-2026,29,Karnataka,Domestic,ST GOVT/PVT Airports,Bidar,0
+31-07-2021,2,Himachal Pradesh,Domestic,Domestic Airports,Gaggal (Kangra),0
+31-08-2019,28,Andhra Pradesh,International,Custom Airports,Visakhapatnam,43
+31-03-2022,28,Andhra Pradesh,Domestic,Domestic Airports,Rajahmundry,1
+28-02-2026,24,Gujarat,Domestic,International Airports,Surat,927
+28-02-2021,35,Andaman And Nicobar Islands,Domestic,International Airports,Port Blair,418
+31-08-2019,9,Uttar Pradesh,Domestic,Domestic Airports,Gorakhpur,0
+30-09-2020,17,Meghalaya,Domestic,Domestic Airports,Barapani (Shillong),0
+31-03-2026,24,Gujarat,International,International Airports,Rajkot (Hirasar),0
+30-04-2024,23,Madhya Pradesh,Domestic,Domestic Airports,Gwalior,0
+31-08-2020,34,Puducherry,Domestic,Domestic Airports,Puducherry,0
+30-11-2019,18,Assam,Domestic,Domestic Airports,Tezpur,0
+30-04-2017,32,Kerala,International,JV International Airports,Kochi (CIAL),5940
+31-08-2024,24,Gujarat,Domestic,Domestic Airports,Porbandar,0
+31-07-2026,20,Jharkhand,Domestic,Domestic Airports,Deoghar,0
+31-07-2025,24,Gujarat,Domestic,Custom Airports,Vadodara,168
+28-02-2023,10,Bihar,International,Custom Airports,Gaya,0
+31-03-2019,4,Chandigarh,International,Custom Airports,Chandigarh,0
+30-09-2024,29,Karnataka,International,PPP International Airports,Mangaluru,265
+31-07-2022,13,Nagaland,Domestic,Domestic Airports,Dimapur,0
+31-03-2023,10,Bihar,International,Custom Airports,Patna,0
+30-11-2021,33,Tamil Nadu,Domestic,International Airports,Coimbatore,527
+31-10-2023,9,Uttar Pradesh,International,International Airports,Varanasi,67
+30-04-2019,19,West Bengal,Domestic,Custom Airports,Bagdogra,553
+31-05-2023,3,Punjab,Domestic,Domestic Airports,Adampur (Jalandhar),0
+31-10-2022,27,Maharashtra,Domestic,ST GOVT/PVT INTL Airports,Shirdi,68
+31-12-2025,8,Rajasthan,Domestic,Domestic Airports,Bikaner,0
+31-07-2019,29,Karnataka,Domestic,Domestic Airports,Belagavi,0
+31-01-2021,27,Maharashtra,International,ST GOVT/PVT INTL Airports,Shirdi,0
+30-06-2019,8,Rajasthan,Domestic,Domestic Airports,Udaipur,1
+31-10-2022,9,Uttar Pradesh,Domestic,International Airports,Kushinagar,0
+30-09-2023,32,Kerala,Domestic,JV International Airports,Kochi (CIAL),1156
+31-03-2026,16,Tripura,International,Custom Airports,Agartala,0
+30-09-2022,18,Assam,Domestic,Domestic Airports,Tezpur,0
+31-08-2024,21,Odisha,Domestic,International Airports,Bhubaneswar,745
+31-07-2022,21,Odisha,International,International Airports,Bhubaneswar,0
+30-11-2022,29,Karnataka,Domestic,Domestic Airports,Belagavi,1
+31-10-2024,24,Gujarat,Domestic,International Airports,Rajkot (Hirasar),58
+31-03-2023,18,Assam,Domestic,Domestic Airports,Silchar,44
+31-03-2025,33,Tamil Nadu,Domestic,International Airports,Tiruchirappalli,0
+30-11-2019,9,Uttar Pradesh,Domestic,Domestic Airports,Gorakhpur,0
+31-12-2023,9,Uttar Pradesh,Domestic,Domestic Airports,Kanpur (Chakeri),18
+31-01-2024,10,Bihar,International,Custom Airports,Patna,0
+31-12-2017,9,Uttar Pradesh,Domestic,Domestic Airports,Kanpur (Chakeri),0
+30-11-2018,19,West Bengal,International,International Airports,Kolkata,5253
+30-04-2021,12,Arunachal Pradesh,Domestic,Domestic Airports,Tezu,0
+31-07-2017,9,Uttar Pradesh,Domestic,Domestic Airports,Agra,0
+31-12-2022,9,Uttar Pradesh,Domestic,Domestic Airports,Agra,0
+31-05-2024,28,Andhra Pradesh,Domestic,Domestic Airports,Rajahmundry,2
+31-05-2024,28,Andhra Pradesh,Domestic,Custom Airports,Visakhapatnam,450
+31-01-2017,19,West Bengal,Domestic,International Airports,Kolkata,7476
+30-09-2022,10,Bihar,International,Custom Airports,Patna,0
+31-12-2025,29,Karnataka,Domestic,PPP International Airports,Mangaluru,62
+31-10-2018,23,Madhya Pradesh,Domestic,Domestic Airports,Jabalpur,0
+31-05-2026,23,Madhya Pradesh,Domestic,Custom Airports,Indore,953
+30-06-2019,18,Assam,Domestic,Domestic Airports,Jorhat,0
+31-12-2019,3,Punjab,Domestic,Domestic Airports,Ludhiana (Halwara),0
+30-06-2021,10,Bihar,International,Custom Airports,Patna,0
+31-10-2023,15,Mizoram,Domestic,ST GOVT/PVT Airports,Aizawl (Lengpui),83
+30-09-2021,27,Maharashtra,International,JV International Airports,Nagpur (MIPL),32
+31-03-2019,38,The Dadra And Nagar Haveli And Daman And Diu,Domestic,Domestic Airports,Diu,0
+31-03-2024,33,Tamil Nadu,Domestic,International Airports,Tiruchirappalli,0
+31-01-2022,28,Andhra Pradesh,Domestic,ST GOVT/PVT Airports,Kurnool,0
+30-04-2024,18,Assam,Domestic,Domestic Airports,Jorhat,7
+31-07-2026,30,Goa,Domestic,International Airports,Goa (Dabolim),531
+31-10-2023,3,Punjab,International,International Airports,Amritsar,157
+29-02-2024,20,Jharkhand,Domestic,ST GOVT/PVT Airports,Jamshedpur,0
+31-08-2023,1,Jammu And Kashmir,Domestic,Domestic Airports,Jammu,69
+30-04-2026,33,Tamil Nadu,Domestic,Domestic Airports,Tuticorin,5
+30-09-2019,9,Uttar Pradesh,Domestic,International Airports,Varanasi,311
+30-09-2023,14,Manipur,Domestic,International Airports,Imphal,54
+30-06-2025,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,59
+30-09-2022,9,Uttar Pradesh,Domestic,Domestic Airports,Hindon,0
+31-10-2020,28,Andhra Pradesh,International,International Airports,Vijayawada,0
+31-01-2025,30,Goa,International,International Airports,Goa (Dabolim),23
+31-12-2022,28,Andhra Pradesh,International,Custom Airports,Visakhapatnam,0
+31-08-2020,27,Maharashtra,International,Custom Airports,Aurangabad,0
+31-10-2017,33,Tamil Nadu,International,International Airports,Tiruchirappalli,500
+31-01-2020,32,Kerala,International,JV International Airports,Kochi (CIAL),3651
+31-05-2021,33,Tamil Nadu,International,Custom Airports,Madurai,27
+31-08-2020,24,Gujarat,International,Custom Airports,Surat,0
+30-06-2026,20,Jharkhand,Domestic,ST GOVT/PVT Airports,Jamshedpur,0
+31-03-2023,10,Bihar,Domestic,Domestic Airports,Darbhanga,3
+31-07-2024,12,Arunachal Pradesh,Domestic,ST GOVT/PVT Airports,Ziro,0
+31-01-2025,10,Bihar,International,Custom Airports,Gaya,0
+30-09-2024,28,Andhra Pradesh,Domestic,International Airports,Vijayawada,106
+31-05-2019,2,Himachal Pradesh,Domestic,Domestic Airports,Bhuntar (Kullu Manali),0
+28-02-2017,7,Delhi,Domestic,JV International Airports,Delhi (DIAL),23274
+31-05-2023,18,Assam,Domestic,PPP International Airports,Guwahati,2032
+31-08-2023,30,Goa,Domestic,International Airports,Goa (Dabolim),336
+28-02-2017,19,West Bengal,Domestic,ST GOVT/PVT Airports,Durgapur,0
+31-12-2020,23,Madhya Pradesh,International,Custom Airports,Indore,7
+30-11-2023,33,Tamil Nadu,International,Custom Airports,Madurai,390
+31-08-2024,10,Bihar,International,Custom Airports,Patna,0
+28-02-2021,14,Manipur,Domestic,International Airports,Imphal,752
+30-11-2020,2,Himachal Pradesh,Domestic,Domestic Airports,Shimla,0
+31-07-2020,4,Chandigarh,International,Custom Airports,Chandigarh,0
+30-09-2017,24,Gujarat,Domestic,Domestic Airports,Porbandar,0
+31-03-2024,36,Telangana,Domestic,JV International Airports,Hyderabad (GHIAL),5538
+31-03-2025,24,Gujarat,Domestic,Domestic Airports,Keshod (Junagarh),0
+31-12-2024,37,Ladakh,Domestic,Domestic Airports,Leh,155
+30-09-2025,29,Karnataka,Domestic,ST GOVT/PVT Airports,Bidar,0
+31-08-2022,6,Haryana,Domestic,ST GOVT/PVT Airports,Hisar,0
+30-04-2024,9,Uttar Pradesh,Domestic,Domestic Airports,Prayagraj,3
+31-03-2023,8,Rajasthan,Domestic,Domestic Airports,Jodhpur,0
+31-07-2021,10,Bihar,International,Custom Airports,Patna,0
+30-09-2023,9,Uttar Pradesh,Domestic,PPP International Airports,Lucknow,1343
+31-05-2026,20,Jharkhand,Domestic,Domestic Airports,Deoghar,0
+30-11-2022,9,Uttar Pradesh,Domestic,Domestic Airports,Gorakhpur,0
+31-08-2023,22,Chhattisgarh,Domestic,ST GOVT/PVT Airports,Bilaspur,0
+30-09-2023,2,Himachal Pradesh,Domestic,Domestic Airports,Bhuntar (Kullu Manali),0
+31-10-2025,28,Andhra Pradesh,International,International Airports,Vijayawada,0
